@@ -111,7 +111,7 @@ Enter amount to withdraw: ₹2000
 > 💬 *“Code is the bridge between imagination and execution.”*
 
 📫 **Connect:**
-[LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com) • [Instagram](https://instagram.com)
+[LinkedIn](https://www.linkedin.com/in/krushnal-patil-329ba235b) 
 
 ---
 
@@ -132,22 +132,3 @@ Would you like me to:
 - ✅ and this `README.md` file  
 - 📦 then zip them together so you can upload directly to GitHub or your college LMS?
 ```
-## ⚙️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Krushnalpatil056/banking_system_Case_study.git
-````
-
-2. Navigate into the project folder:
-
-   ```bash
-   cd banking-system-python
-   ```
-3. Run the Python script:
-
-   ```bash
-   python banking_system.py
-   ```
-4. Follow the menu options in the terminal.
-
----
